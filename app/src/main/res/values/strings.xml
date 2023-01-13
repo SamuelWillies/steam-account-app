@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Steam Account</string>
+    <string name="title_home">Home</string>
+    <string name="title_account">Account</string>
+    <string name="title_games">Games</string>
+    <string name="community_status">Community Status</string>
+    <string name="vac_status">VAC Status</string>
+    <string name="economy_status">Economy Bans</string>
+    <string name="no_of_vac_bans">No. of VAC Bans</string>
+    <string name="days_since_last_ban">Days since last ban</string>
+    <string name="no_of_game_bans">No. of Game Bans</string>
+    <string name="n_a">N/A</string>
+    <string name="steam_id">Steam ID</string>
+    <string name="get_data">Get data</string>
+    <string name="last_updated_never">Last Updated: never</string>
+</resources>
